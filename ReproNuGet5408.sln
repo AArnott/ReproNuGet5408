@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26711.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproNuGet5408", "ReproNuGet5408\ReproNuGet5408.csproj", "{7FE78177-E5AA-437C-A5D4-A5889B63D1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE78177-E5AA-437C-A5D4-A5889B63D1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE78177-E5AA-437C-A5D4-A5889B63D1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE78177-E5AA-437C-A5D4-A5889B63D1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE78177-E5AA-437C-A5D4-A5889B63D1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F87677D-6B49-42BA-9F1B-0CFC77B73518}
+	EndGlobalSection
+EndGlobal
